@@ -1,19 +1,21 @@
 @font-face { 
-    font-family: ClashDisplayR; src: url('ClashDisplay-Regular.ttf'); 
+    font-family: ClashDisplayR; src: url('../ClashDisplay-Regular.ttf'); 
     } 
       h3 {
          font-family: ClashDisplayR
     }
 
     @font-face { 
-        font-family: ClashDisplayM; src: url('ClashDisplay-Medium.ttf'); 
+        font-family: ClashDisplayM; src: url('../ClashDisplay-Medium.ttf'); 
     } 
     
     h2 {
          font-family: ClashDisplayM }
 
     @font-face { 
-        font-family: ClashDisplaySB; src: url('ClashDisplay-Semibold.ttf');  } 
+        font-family: ClashDisplaySB; 
+        src: url('../ClashDisplay-Semibold.ttf');  
+    } 
     
     h1 {
          font-family: ClashDisplaySB }
